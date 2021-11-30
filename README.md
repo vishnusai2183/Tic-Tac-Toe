@@ -1,7 +1,7 @@
 
 # Tic-Tac-Toe
 
-- This a 2-player (X and O) tic-tac-toe game. 
+- This is a 2-player (X and O) tic-tac-toe game. 
 - The first player is "X".
 - When asked for position, if you enter a number other than 1 to 9, you will be asked to enter the "CORRECT" position again.
     
